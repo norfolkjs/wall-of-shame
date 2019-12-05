@@ -2,10 +2,10 @@
 
 Congratulations! You have earned a spot on our list of shady websites who use our logo without our permission. You will remain on this list until you remove it.
 
-1. @deepu105: Golang for JavaScript developers - Part 1
+#### 1. @deepu105: Golang for JavaScript developers - Part 1
    - `https://dev.to/deepu105/golang-for-javascript-developers-part-1-38je`
    
-2. IOMechs
+#### 2. IOMechs
    - `https://www.facebook.com/iomechs/posts/calling-out-for-javascript-ninjas-out-there-fresh-graduates-are-highly-encourage/1756243981351428/`
    
 
