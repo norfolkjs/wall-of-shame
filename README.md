@@ -1,6 +1,6 @@
 # Norfolkjs Wall of Shame
 
-Congratulations! You have earned a spot on our list of shady websites who steal or modify our logo without our permission. You will remain on this list until you remove it.
+Congratulations! You have earned a spot on our list of shady websites who use our logo without our permission. You will remain on this list until you remove it.
 
 1. @deepu105: Golang for JavaScript developers - Part 1
    - [https://dev.to/deepu105/golang-for-javascript-developers-part-1-38je]()
